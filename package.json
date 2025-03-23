@@ -10,10 +10,13 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@clerk/clerk-react": "^5.25.2",
     "@emotion/react": "^11.14.0",
     "@emotion/styled": "^11.14.0",
     "@mui/icons-material": "^5.16.14",
     "@mui/material": "^5.16.14",
+    "axios": "^1.8.4",
+    "axois": "^0.0.1-security",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "react-horizontal-scrolling-menu": "^2.8.2",
