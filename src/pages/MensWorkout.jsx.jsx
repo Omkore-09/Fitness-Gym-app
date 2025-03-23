@@ -3,12 +3,12 @@ import { Link } from "react-router-dom";
 import { Box, Typography, Grid, Card, CardMedia, CardContent } from "@mui/material";
 
 const exerciseCategories = [
-  { title: "Full Body Workout", img: "https://images.pexels.com/photos/3836865/pexels-photo-3836865.jpeg", path: "full-body" },
-  { title: "Chest Workout", img: "https://images.pexels.com/photos/416717/pexels-photo-416717.jpeg", path: "chest" },
-  { title: "Leg Workout", img: "https://images.pexels.com/photos/4734636/pexels-photo-4734636.jpeg", path: "legs" },
+  { title: "Full Body Workout", img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoOB_xib82jX2ZPOlNquiM94sGsVg67UUa9g&s", path: "full-body" },
+  { title: "Chest Workout", img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWOJGpTDVpjcj9TUqDcCQpUwa3qdjfoY_cTg&s", path: "chest" },
+  { title: "Leg Workout", img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQL_J3G-U9P304uCx8nGQbj6Rpuwtd-VeWY6g&s", path: "legs" },
   { title: "Arms Workout", img: "https://images.pexels.com/photos/1552249/pexels-photo-1552249.jpeg", path: "arms" },
   { title: "Back Workout", img: "https://images.pexels.com/photos/28061/pexels-photo.jpg", path: "back" },
-  { title: "Shoulder Workout", img: "https://images.pexels.com/photos/3823131/pexels-photo-3823131.jpeg", path: "shoulders" },
+  { title: "Shoulder Workout", img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnLC8kyzxWYdpcpatq1F_2Z1HKPBPLOFR4jQ&s", path: "shoulders" },
   { title: "Abs Workout", img: "https://images.pexels.com/photos/4720321/pexels-photo-4720321.jpeg", path: "abs" },
 ];
 

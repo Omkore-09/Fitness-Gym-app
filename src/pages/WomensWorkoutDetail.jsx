@@ -7,27 +7,27 @@ const workoutDetails = {
   "full-body": {
     title: "Full Body Workout 🏋️‍♀️",
     description: "A mix of cardio and strength exercises that targets all muscle groups.",
-    image: "https://source.unsplash.com/600x400/?fitness,women",
+    image: "https://images.pexels.com/photos/4662345/pexels-photo-4662345.jpeg",
   },
   "glutes-legs": {
     title: "Glutes & Legs Workout 🍑",
     description: "Strengthen your lower body with squats, lunges, and deadlifts.",
-    image: "https://source.unsplash.com/600x400/?gym,legs",
+    image: "https://images.pexels.com/photos/6455782/pexels-photo-6455782.jpeg",
   },
   "arms-shoulders": {
     title: "Arms & Shoulders Workout 💪",
     description: "Tone your arms with dumbbell curls, shoulder presses, and dips.",
-    image: "https://source.unsplash.com/600x400/?gym,arms",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9CJCG6mU40gOjco8CJskBiuZezx_S4bGiow&s",
   },
   "core-abs": {
     title: "Core & Abs Workout 🔥",
     description: "Focus on core stability with crunches, planks, and leg raises.",
-    image: "https://source.unsplash.com/600x400/?gym,abs",
+    image: "https://images.pexels.com/photos/4662348/pexels-photo-4662348.jpeg",
   },
   "yoga-stretching": {
     title: "Yoga & Stretching 🧘‍♀️",
     description: "Improve flexibility and mindfulness with yoga poses and stretches.",
-    image: "https://source.unsplash.com/600x400/?yoga,stretching",
+    image: "https://images.pexels.com/photos/4325466/pexels-photo-4325466.jpeg",
   },
 };
 

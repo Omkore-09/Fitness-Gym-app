@@ -8,7 +8,7 @@ const workoutDetails = {
     title: "Chest Workout 💪",
     description:
       "Chest exercises strengthen the pectoral muscles and enhance upper body strength. Common exercises include bench press, push-ups, and dumbbell flys.",
-    image: "https://images.pexels.com/photos/416717/pexels-photo-416717.jpeg",
+    image: "https://images.pexels.com/photos/416717/pexels-photo-416717.jpeg", 
   },
   legs: {
     title: "Leg Workout 🏋️",

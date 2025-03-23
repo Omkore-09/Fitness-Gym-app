@@ -5,7 +5,7 @@ import { Box, Typography, Grid, Card, CardMedia, CardContent } from "@mui/materi
 const exerciseCategories = [
     { title: "Full Body Workout", img: "https://images.pexels.com/photos/4662345/pexels-photo-4662345.jpeg", path: "full-body" },
     { title: "Glutes & Legs Workout", img: "https://images.pexels.com/photos/6455782/pexels-photo-6455782.jpeg", path: "glutes-legs" },
-    { title: "Arms & Shoulders Workout", img: "https://images.pexels.com/photos/3823130/pexels-photo-3823130.jpeg", path: "arms-shoulders" },
+    { title: "Arms & Shoulders Workout", img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9CJCG6mU40gOjco8CJskBiuZezx_S4bGiow&s", path: "arms-shoulders" },
     { title: "Core & Abs Workout", img: "https://images.pexels.com/photos/4662348/pexels-photo-4662348.jpeg", path: "core-abs" },
     { title: "Yoga & Stretching", img: "https://images.pexels.com/photos/4325466/pexels-photo-4325466.jpeg", path: "yoga-stretching" },
   ];
